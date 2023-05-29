@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentProjectLocalConfig">
+    <option name="classIconColor" value="fe2857" />
+    <option name="domain" value="http://localhost:8080" />
+    <option name="enableEnv" value="local" />
+    <option name="enableProject" value="fast-request-study" />
+    <option name="initFlag" value="1" />
+    <option name="methodIconColor" value="21d789" />
+    <option name="toolWindowIconColor" value="ef82a0" />
+  </component>
+</project>
